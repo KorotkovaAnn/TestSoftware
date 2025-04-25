@@ -1,7 +1,3 @@
-# E2E тест покупок на saucedemo.com
-
-## Установка
-
 ```bash
 git clone https://github.com/KorotkovaAnn/TestSoftware.git
 cd saucedemo-e2e
