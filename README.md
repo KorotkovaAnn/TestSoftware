@@ -1,6 +1,6 @@
 # Automated Test Project
 
-This project contains automated tests for web applications using Selenium WebDriver and pytest.
+Этот проект содержит автоматизированные тесты для веб-приложений с использованием Selenium WebDriver и pytest.
 
 ## Prerequisites
 
